@@ -1,4 +1,4 @@
-# SAIDL-Assignment
+# SAiDL-Assignment
 This is my submission repository for SAiDL Assignment
 
 CIFAR100_AlexNet.ipynb and CIFAR100_AlexNet_with_Gumbel_softmax.ipynb: For comparison purpose of the Section 1, I have uploaded these 2 Jupyter Notebooks with models based on AlexNet architecture
