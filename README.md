@@ -5,6 +5,6 @@ This is my submission repository for SAiDL Assignment
 
 **Section1.pdf**: The comparisions for Section 1 are present in this file
 
-**CIFAR100_vgg16.ipynb**: Additionally, I have also uploaded my VGG-16 architecture model of CIFAR100 (using normal softmax) of around 57.5% test set accuracy after 20 training epochs 
+**CIFAR100_vgg16_normal_softmax.ipynb**: Additionally, I have also uploaded my VGG-16 architecture model of CIFAR100 (using normal softmax) of around 57.5% test set accuracy after 20 training epochs 
 
 I'm sorry but I honestly could not start this assignment until after compres and am still working on the other projects. I will upload them on this repository as soon as I am done with them.
